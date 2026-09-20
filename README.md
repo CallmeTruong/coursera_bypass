@@ -15,6 +15,7 @@ This guide is for users who already have the modified `app.asar` file. No progra
 4. **Replace the file:** Copy the modified `app.asar` file you received and paste it into this folder. Choose to **Replace/Overwrite** the existing file when prompted.
 5. **Done!** You can now go back to the Coursera website and launch your assessment as usual. The application will open in its unlocked state.
 
+|Note: If you cannot find the folder, make sure Hidden items is enabled in File Explorer. To do this, open File Explorer → View → Show → Hidden items.You can also download Coursera Locking Browser v0.6.6 using the coursera-locking-browser-0.6.6.exe file provided.|
 ---
 
 ## ⚠️ Disclaimer
